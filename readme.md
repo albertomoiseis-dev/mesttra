@@ -1,4 +1,4 @@
-![mesttra](./imgs/images.jfif)
+<img src="./imgs/images.jfif" alt="Descrição da imagem" style="width:100%; height:auto;">
 # Projeto de Treinamento em Java
 
 ## Descrição
